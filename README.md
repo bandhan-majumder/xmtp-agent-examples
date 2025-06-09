@@ -148,3 +148,10 @@ These examples are outside of this monorepo and showcase how to use and deploy X
 Interact with the XMTP network using [xmtp.chat](https://xmtp.chat), the official web inbox for developers.
 
 ![](/examples/xmtp-gm/screenshot.png)
+
+## More resources
+https://youtu.be/djRLnWUvwIA?si=QeBkOv00yhTFHcau
+https://docs.xmtp.org/
+https://github.com/coinbase/agentkit
+https://docs.cdp.coinbase.com/
+https://www.base.org/builders/onchainkit
